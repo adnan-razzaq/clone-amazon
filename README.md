@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## live DEMO [AMAZON CLONE] (https://clone-9b55a.web.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
